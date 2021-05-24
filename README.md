@@ -8,3 +8,8 @@ Manager can update employee details and delete employees
 Frontend: HTML, PHP, Bootstrap
 
 Backend: MySQL
+
+Manager Login:
+
+Username: admin
+Password: password
