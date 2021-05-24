@@ -11,5 +11,5 @@ Backend: MySQL
 
 Manager Login:
 
-Username: admin
-Password: password
+* Username: admin
+* Password: password
