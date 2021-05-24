@@ -6,4 +6,5 @@ Manager can create employees with the following details: First name, Last name, 
 Manager can update employee details and delete employees
 
 Frontend: HTML, PHP, Bootstrap
+
 Backend: MySQL
